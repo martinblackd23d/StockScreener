@@ -1,5 +1,4 @@
 #Python Stock Screener with TD Ameritrade API
-
 ameritrade = ''
 import requests, time, re, os
 import pandas as pd
