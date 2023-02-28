@@ -1,6 +1,6 @@
 #Python Stock Screener with TD Ameritrade API
 
-ameritrade = 'Y4CUZL8WG9CWKSWGDAUVDHKUGCOAVC0K'
+ameritrade = ''
 import requests, time, re, os
 import pandas as pd
 import pickle as pkl
